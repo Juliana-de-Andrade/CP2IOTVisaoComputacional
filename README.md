@@ -69,7 +69,10 @@ O sistema mostra:
 - Comparação lado a lado: Roboflow vs Hugging Face
 
 ## Link do Vídeo com Demonstração:
+https://drive.google.com/drive/folders/1ajD_dWVe2zxkATMMsFfToXGkrUYl4kfz?usp=sharing
 
+## Link do Dataset no Kaggle:
+https://www.kaggle.com/datasets/kaushigihanml/kids-and-adults-detection?resource=download
 
 ## Equipe:
 Juliana de Andrade Sousa RM: 558834
