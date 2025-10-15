@@ -54,7 +54,7 @@ HUGGING FACE:
 - Vantagem: Modelos modernos
 
 ## Como Executar
-pip install opencv-python numpy ultralytics roboflow
+pip install numpy==1.24.3 opencv-python ultralytics roboflow
 python sistema_seguranca_final.py
 
 Controles:
