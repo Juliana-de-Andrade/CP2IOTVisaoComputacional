@@ -55,6 +55,7 @@ HUGGING FACE:
 
 ## Como Executar
 pip install numpy==1.24.3 opencv-python ultralytics roboflow
+
 python sistema_seguranca_final.py
 
 Controles:
