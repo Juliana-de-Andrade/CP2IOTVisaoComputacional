@@ -68,6 +68,13 @@ O sistema mostra:
 - Alertas vermelhos quando crianças entram em áreas perigosas
 - Comparação lado a lado: Roboflow vs Hugging Face
 
+## Como Executar
+Pré-requisitos
+pip install opencv-python numpy ultralytics roboflow
+
+Execução
+python sistema_seguranca_final.py
+
 ## Link do Vídeo com Demonstração:
 https://drive.google.com/drive/folders/1ajD_dWVe2zxkATMMsFfToXGkrUYl4kfz?usp=sharing
 
